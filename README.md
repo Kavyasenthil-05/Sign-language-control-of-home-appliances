@@ -72,6 +72,3 @@ Gesture → Camera → Preprocessing → CNN → LSTM → Classification → Com
 ## Conclusion
 This project enables **gesture-based control of home appliances** using AI and computer vision, providing a **simple, real-time, and accessible solution** for deaf and speech-impaired users.
 
----
-
-## 🔄 Working Flow
